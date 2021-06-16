@@ -1,0 +1,38 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+box-sizing: border-box;
+}
+
+body {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+margin: 0;
+}
+
+.player-1{
+  width: 20rem;
+  height: 10rem;
+    text-align: center;
+background-color:#D2ED9C;
+}
+
+.player-2{
+  width: 20rem;
+  height: 10rem;
+    text-align: center;
+background-color:#D2ED9C;
+}
+.text-bold{
+  font-weight: bolder;
+}
+
+.save-data{
+  display: flex;
+  margin: auto;
+}
