@@ -20,7 +20,7 @@ function Home() {
       swal(player1, "  is winner");
 
     } else {
-      swal(player1, " is winner");
+      swal(player2, " is winner");
     }
   }
 
