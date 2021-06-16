@@ -38,7 +38,7 @@ function Home() {
           class="btn btn-primary"
           onClick={() => setCount(count + 1)}
         >
-          Click Here
+          Add Win
         </button>
       </div>
       <br />
@@ -54,7 +54,7 @@ function Home() {
           class="btn btn-primary"
           onClick={() => setCount2(count2 + 1)}
         >
-          Click Here
+          Add Win
         </button>
       </div>
       <br />
